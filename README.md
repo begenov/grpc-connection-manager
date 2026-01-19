@@ -19,7 +19,7 @@ A robust and feature-rich gRPC connection manager for Go applications. This libr
 ## Installation
 
 ```bash
-go get github.com/yourusername/grpc-connection-manager
+go get github.com/begenov/grpc-connection-manager
 ```
 
 ## Quick Start
