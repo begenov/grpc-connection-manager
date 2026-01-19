@@ -205,8 +205,8 @@ This project was developed using the following resources and documentation.
 
 ### Articles & Tutorials
 - [Building Resilient Microservices with gRPC](https://grpc.io/blog/grpc-load-balancing/)
-- [gRPC Connection Management](https://github.com/grpc/grpc-go/blob/master/Documentation/connection-backoff.md)
-- [Circuit Breaker Implementation in Go](https://www.alexedwards.net/blog/how-to-make-an-http-request-in-go)
+- [gRPC Connection Management](https://github.com/grpc/grpc/blob/master/doc/connection-backoff.md?utm_source=chatgpt.com)
+- [Circuit Breaker Implementation in Go](https://go-patterns.dev/stability/circuit-breaker?utm_source=chatgpt.com)
 
 ## Acknowledgments
 
